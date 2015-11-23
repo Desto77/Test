@@ -7,6 +7,7 @@ public class HelloWorld {
 
 	public void function1() {
 		System.out.println("function_1");
+		System.out.println("functionality");
 	}
 
 }
