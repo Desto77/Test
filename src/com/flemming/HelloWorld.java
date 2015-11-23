@@ -5,4 +5,8 @@ public class HelloWorld {
 		System.out.println("Hello");
 	}
 
+	public void function1() {
+		System.out.println("function_1");
+	}
+
 }
