@@ -14,5 +14,6 @@ public class HelloWorld {
 	
 	public void function2() {
 		System.out.println("function2");
+		System.out.println("some functionality");
 	}
 }
