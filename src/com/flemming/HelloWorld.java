@@ -7,6 +7,10 @@ public class HelloWorld {
 		hw.test1();
 	}
 
+	public void test4() {
+		System.out.println("TEST4");
+	}
+	
 	public void test3() {
 		System.out.println("TEST3");
 	}
