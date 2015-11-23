@@ -8,5 +8,6 @@ public class HelloWorld {
 	public void function1() {
 		System.out.println("function 1");
 		System.out.println("some functionality");
+		System.out.println("another functionality");
 	}
 }
